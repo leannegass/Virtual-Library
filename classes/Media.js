@@ -1,6 +1,6 @@
 class Media {
     static totalMediaCount = 0;
-    constructor(title,year,genre,){
+    constructor(title,year,genre){
         this.title = title;
         this.year = year;
         this.genre = genre;
